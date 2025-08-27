@@ -12,6 +12,7 @@ Authors of the [Detector Manual](https://github.com/gfcottin/Atomicas/blob/main/
 
 Author of the [Handbook](https://github.com/gfcottin/Atomicas/blob/main/Documents/Handbook_Ni%C3%B1asAtomicas.pdf) (in Spanish): Mariel Poduje
 
+Author of the Niñas Atómicas [Logo](https://github.com/gfcottin/Atomicas/blob/main/Logo.png): Maritza Piña
 
 2025 Tutors: Florencia Díaz, Suyay Huichacura, Melanie Martínez, Daniella Mora, Devika Muhki, Mariel Poduje, Catalina Ruiz-Tagle, Pascale Tilleria
 
