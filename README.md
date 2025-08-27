@@ -12,6 +12,9 @@ Author of the [Handbook](https://github.com/gfcottin/Atomicas/blob/main/Document
 
 
 2025 Tutors: Florencia Díaz, Suyay Huichacura, Melanie Martínez, Daniella Mora, Devika Muhki, Mariel Poduje, Catalina Ruiz-Tagle, Pascale Tilleria
+
 2024 Tutors: Florencia Díaz, Suyay Huichacura, Macarena Lara, Melanie Martínez, Devika Muhki, Mariel Poduje
+
 2023 Tutors: Suyay Huichacura, Melanie Martinez, Devika Muhki, Mariel Poduje, Katherine Rodriguez
+
 2022 Tutors: Suyay Huichacura, Laura Martínez, Melanie Martínez, Devika Muhki, Mariel Poduje
