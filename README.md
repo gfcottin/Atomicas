@@ -10,7 +10,7 @@ Paper on [arXiv](https://arxiv.org/abs/2511.05754)
 
 Owner of the [PCB](https://github.com/gfcottin/Atomicas/blob/main/PCB.png) and [Muon Counter](https://github.com/gfcottin/Atomicas/tree/main/CasingPrinter) : the Center for Theoretical and Experimental Particle Physics (CTEPP) at Universidad Andrés Bello (UNAB)
 
-Authors of the [Detector Manual](https://github.com/gfcottin/Atomicas/blob/main/Documents/DetectorManual_Ni%C3%B1asAtomicas.pdf) (in Spanish): Devika Mukhi and Mariel Poduje. Version in English with updates from Ignacio García.
+Authors of the [Detector Manual](https://github.com/gfcottin/Atomicas/blob/main/Documents/DetectorManual_Ni%C3%B1asAtomicas.pdf) (in Spanish): Devika Mukhi and Mariel Poduje. Version in [English](https://github.com/gfcottin/Atomicas/blob/main/Documents/Detector_Assembly_English.pdf) with updates from Ignacio García.
 
 Author of the [Handbook](https://github.com/gfcottin/Atomicas/blob/main/Documents/Handbook_Ni%C3%B1asAtomicas.pdf) (in Spanish): Mariel Poduje
 
